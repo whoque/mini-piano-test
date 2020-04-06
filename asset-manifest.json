@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mini-piano/static/css/main.8b9df0fa.chunk.css",
+    "main.css": "/mini-piano/static/css/main.525668e3.chunk.css",
     "main.js": "/mini-piano/static/js/main.3f971edb.chunk.js",
     "main.js.map": "/mini-piano/static/js/main.3f971edb.chunk.js.map",
     "runtime-main.js": "/mini-piano/static/js/runtime-main.48a60966.js",
@@ -8,15 +8,15 @@
     "static/js/2.4042a544.chunk.js": "/mini-piano/static/js/2.4042a544.chunk.js",
     "static/js/2.4042a544.chunk.js.map": "/mini-piano/static/js/2.4042a544.chunk.js.map",
     "index.html": "/mini-piano/index.html",
-    "precache-manifest.1a7acdc14364f942824b40d1d4c16691.js": "/mini-piano/precache-manifest.1a7acdc14364f942824b40d1d4c16691.js",
+    "precache-manifest.db608d5967d5b39cef0410ba380952ef.js": "/mini-piano/precache-manifest.db608d5967d5b39cef0410ba380952ef.js",
     "service-worker.js": "/mini-piano/service-worker.js",
-    "static/css/main.8b9df0fa.chunk.css.map": "/mini-piano/static/css/main.8b9df0fa.chunk.css.map",
+    "static/css/main.525668e3.chunk.css.map": "/mini-piano/static/css/main.525668e3.chunk.css.map",
     "static/js/2.4042a544.chunk.js.LICENSE.txt": "/mini-piano/static/js/2.4042a544.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48a60966.js",
     "static/js/2.4042a544.chunk.js",
-    "static/css/main.8b9df0fa.chunk.css",
+    "static/css/main.525668e3.chunk.css",
     "static/js/main.3f971edb.chunk.js"
   ]
 }
