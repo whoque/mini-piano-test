@@ -4,20 +4,20 @@ import "./App.scss";
 
 const App = () => {
   return (
-    <div>
+    <div className="wrapper">
       <ul className="set">
-        <li className="white b" onClick={() => playFrequency(349.23)}></li>
-        <li className="black as" onClick={() => playFrequency(369.99)}></li>
-        <li className="white a" onClick={() => playFrequency(392.0)}></li>
+        <li className="white f" onClick={() => playFrequency(349.23)}></li>
+        <li className="black fs" onClick={() => playFrequency(369.99)}></li>
+        <li className="white g" onClick={() => playFrequency(392.0)}></li>
         <li className="black gs" onClick={() => playFrequency(415.3)}></li>
-        <li className="white g" onClick={() => playFrequency(440.0)}></li>
-        <li className="black fs" onClick={() => playFrequency(466.16)}></li>
-        <li className="white f" onClick={() => playFrequency(493.88)}></li>
-        <li className="white e" onClick={() => playFrequency(523.25)}></li>
-        <li className="black ds" onClick={() => playFrequency(554.37)}></li>
+        <li className="white a" onClick={() => playFrequency(440.0)}></li>
+        <li className="black as" onClick={() => playFrequency(466.16)}></li>
+        <li className="white b" onClick={() => playFrequency(493.88)}></li>
+        <li className="white c" onClick={() => playFrequency(523.25)}></li>
+        <li className="black cs" onClick={() => playFrequency(554.37)}></li>
         <li className="white d" onClick={() => playFrequency(587.33)}></li>
-        <li className="black cs" onClick={() => playFrequency(622.25)}></li>
-        <li className="white c" onClick={() => playFrequency(659.25)}></li>
+        <li className="black ds" onClick={() => playFrequency(622.25)}></li>
+        <li className="white e" onClick={() => playFrequency(659.25)}></li>
       </ul>
     </div>
   );
