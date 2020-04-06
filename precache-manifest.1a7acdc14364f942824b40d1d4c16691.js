@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "090dab87dc2aed08ff9b5e4f329a91a6",
+    "revision": "ccfb370ca09502cc8819600dae4aedc6",
     "url": "/mini-piano/index.html"
   },
   {
-    "revision": "00c3131dd1982064756d",
-    "url": "/mini-piano/static/css/main.76de4e10.chunk.css"
+    "revision": "62afd7ccd007ba371547",
+    "url": "/mini-piano/static/css/main.8b9df0fa.chunk.css"
   },
   {
     "revision": "95c2449ecd561b85845e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mini-piano/static/js/2.4042a544.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00c3131dd1982064756d",
-    "url": "/mini-piano/static/js/main.70e51674.chunk.js"
+    "revision": "62afd7ccd007ba371547",
+    "url": "/mini-piano/static/js/main.3f971edb.chunk.js"
   },
   {
     "revision": "895589be8bf4f22ad2eb",
